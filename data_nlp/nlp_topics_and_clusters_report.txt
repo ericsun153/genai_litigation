@@ -1,0 +1,36 @@
+========== NMF TOPICS ==========
+Topic 0 | Other Copyright Litigation | Cases: 24
+openai, complaint, plaintiffs, defendants, 3d, claim, works, claims, dismiss, cir, fac, 2d, 2025, motion dismiss, cal, compl, dkt, allegations, action, rule
+
+Topic 1 | Other Copyright Litigation | Cases: 16
+llp, ca, plaintiffs, francisco ca, san, san francisco, francisco, llp san, schiller, boies, schiller flexner, flexner, saveri, openai, joseph, lead, ny, susman godfrey, godfrey, susman
+
+Topic 2 | Other Copyright Litigation | Cases: 8
+ravine, mark, trademark, open, open ai, uspto, ai, decl, perplexity, evidence, defendants, openai, secondary meaning, register, use, website, marks, injunction, 9th, 9th cir
+
+Topic 3 | Other Copyright Litigation | Cases: 12
+mr, dr, amazon, royalty, patent, zhao, expert, patents, feldman, ecf, opinions, real, intent, johnson, redacted, opinion, source code, testimony, design, exclude
+
+Topic 4 | Training Data / Scraping | Cases: 9
+speech, anthropic, claude, injunction, ai, ab, publishers, datasets, plaintiffs, commercial speech, amendment, use, ecf, counsel, government, preliminary injunction, preliminary, content, 2d, commercial
+
+Topic 5 | Fair Use / Transformative Use | Cases: 4
+quizlet, barkley, fac, ai, fair use, alleges quizlet, materials, use, quizlet ai, 9th, 9th cir, copying, fair, 3d, copyrighted, alleges, amendment, quizlet argues, amend, content
+
+
+========== TEXT CLUSTERS ==========
+Cluster 0 | Cases: 7
+speech, anthropic, claude, injunction, ab, publishers, pure sports, pure, ecf, ai, commercial speech, datasets, amendment, sports, preliminary injunction, preliminary, government, 2d, works, books
+
+Cluster 1 | Cases: 32
+defendants, openai, complaint, plaintiffs, 3d, works, claim, cir, claims, quizlet, zhao, barkley, code, dismiss, 2025, 2d, fac, work, dkt, compl
+
+Cluster 2 | Cases: 8
+mark, ravine, trademark, ai, decl, marks, fac, open, 3d, defendants, perplexity, open ai, uspto, evidence, 9th, 9th cir, use, services, confusion, survey
+
+Cluster 3 | Cases: 18
+llp, plaintiffs, ca, francisco ca, san francisco, francisco, san, llp san, openai, saveri, joseph, lead, hac vice, pro hac, hac, vice, schiller, lead attorney, susman godfrey, godfrey
+
+Cluster 4 | Cases: 8
+mr, flycatcher, amazon, royalty, feldman, dr, kelly, plaintiff counsel, ecf, doc, arbitration, patents, real, opinions, intent, patent, 2025, 3d, citation, counsel
+

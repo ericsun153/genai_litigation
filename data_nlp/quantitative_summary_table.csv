@@ -1,0 +1,21 @@
+Metric,Value
+Total Cases,73
+Years Covered,2012 - 2026
+Unique AI Defendants,9
+Plaintiff Types,8
+RECAP Match Rate (%),100.0
+Opinion Match Rate (%),64.4
+Avg Fair Use Score,5.51
+Avg Training Data Score,6.52
+Avg Scraping Score,0.71
+Avg Market Harm Score,1.21
+Avg Memorization / Output Score,8.27
+Avg DMCA / CMI Score,6.4
+Avg Training Data Conflict Index,0.17
+Avg Fair Use Salience Index,0.21
+Avg Output Risk Index,0.12
+Avg Remedy Pressure Index,0.1
+Top Defendant,OpenAI
+Top Plaintiff Type,book_author_or_author_group
+Most Common Theme,Training Data / Model Training
+Most Common Topic,Other Copyright Litigation
